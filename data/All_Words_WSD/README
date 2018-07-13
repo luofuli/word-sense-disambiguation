@@ -1,0 +1,48 @@
+=================================================================================================================================
+						WORD SENSE DISAMBIGUATION
+				A UNIFIED EVALUATION FRAMEWORK AND EMPIRICAL COMPARISON
+
+				Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli
+=================================================================================================================================
+
+
+This package contains four directories and the reference paper ("EACL17_WSD_EvaluationFramework.pdf"):
+
+
+* Evaluation_Datasets: Evaluation datasets from the unified evaluation framework (more information in the README of the directory).
+
+* Training_Corpora: Sense-annotated training corpora used in the evaluation framework by supervised systems (more information 
+	            in the README of the directory).
+
+* Output_Systems_ALL: Output of all the comparison systems included in the reference paper. Results for the concatenation of all
+		      dataset ("ALL").
+
+* Data-Validation: Guidelines and script to validate the conformity of sense-annotated datasets to the standard format.
+
+
+
+=================================================================================================================================
+REFERENCE PAPER
+=================================================================================================================================
+
+When using these resources, please refer to the following paper:
+
+	Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli. 
+	Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison
+	In Proceedings of European Chapter of the Association for Computational Linguistics (EACL), 
+	Valencia, Spain, April 3-7, 2017. 
+
+If you use any of the datasets, please also cite the corresponding reference paper of the task.
+
+=================================================================================================================================
+CONTACT
+=================================================================================================================================
+ 
+If you have enquiries about any of the resources, please join our Google Group: 
+https://groups.google.com/group/wsd-evaluationframework
+
+Alternatively, please contact Jose Camacho Collados (collados [at] di.uniroma1 [dot] it) or 
+Alessandro Raganato (raganato [at] di.uniroma1 [dot] it).
+
+=================================================================================================================================
+
