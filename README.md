@@ -8,7 +8,7 @@ In this paper, we integrate the context and glosses of the target word into a un
 Therefore, we propose GAS: a gloss-augmented WSD neural network which jointly encodes the context and glosses of the target word in an improved memory network.
 We further extend the original gloss of word sense via its semantic relations in WordNet to enrich the gloss information (``GAS_ext``).
 
-<p align="center"><img width=800 src="img/model.pdf"></p>
+<p align="center"><img width=800 src="image/model.pdf"></p>
 
 <br>
 
