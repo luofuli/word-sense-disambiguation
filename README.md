@@ -44,12 +44,18 @@ tensorflow==1.9.0
 
 If you use this code, please cite the following paper:
 ```
-@inproceedings{GAS,
-author = {Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui},
-title = {Incorporating Glosses into Neural Word Sense Disambiguation},
-journal = {ACL},
-volume = {abs/1805.08028},
-year = {2018},
-url = http://arxiv.org/abs/1805.08028
+@InProceedings{P18-1230,
+  author = 	"Luo, Fuli
+		and Liu, Tianyu
+		and Xia, Qiaolin
+		and Chang, Baobao
+		and Sui, Zhifang",
+  title = 	"Incorporating Glosses into Neural Word Sense Disambiguation",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"2473--2482",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-1230"
 }
 ```
