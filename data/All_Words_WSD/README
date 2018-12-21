@@ -1,11 +1,3 @@
-=================================================================================================================================
-						WORD SENSE DISAMBIGUATION
-				A UNIFIED EVALUATION FRAMEWORK AND EMPIRICAL COMPARISON
-
-				Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli
-=================================================================================================================================
-
-
 This package contains four directories and the reference paper ("EACL17_WSD_EvaluationFramework.pdf"):
 
 
@@ -33,16 +25,3 @@ When using these resources, please refer to the following paper:
 	Valencia, Spain, April 3-7, 2017. 
 
 If you use any of the datasets, please also cite the corresponding reference paper of the task.
-
-=================================================================================================================================
-CONTACT
-=================================================================================================================================
- 
-If you have enquiries about any of the resources, please join our Google Group: 
-https://groups.google.com/group/wsd-evaluationframework
-
-Alternatively, please contact Jose Camacho Collados (collados [at] di.uniroma1 [dot] it) or 
-Alessandro Raganato (raganato [at] di.uniroma1 [dot] it).
-
-=================================================================================================================================
-
