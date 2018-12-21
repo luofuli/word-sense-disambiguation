@@ -2,7 +2,7 @@
 
 This repo contains the code and data of the following paper:
 
-<i> "Incorporating Glosses into Neural Word Sense Disambiguation". Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui. ACL 2018. [arXiv](https://arxiv.org/abs/1805.08028)</i>
+<i> "Incorporating Glosses into Neural Word Sense Disambiguation". Fuli Luo, Tianyu Liu, Qiaolin Xia, Baobao Chang, Zhifang Sui. ACL 2018. [Link](http://aclweb.org/anthology/P18-1230)</i>
 
 In this paper, we integrate the context and glosses of the target word into a unified framework in order to make full use of both labeled data and lexical knowledge of WSD.
 Therefore, we propose ``GAS``: a gloss-augmented WSD neural network which jointly encodes the context and glosses of the target word in an improved memory network.
@@ -51,11 +51,10 @@ If you use this code, please cite the following paper:
 		and Chang, Baobao
 		and Sui, Zhifang",
   title = 	"Incorporating Glosses into Neural Word Sense Disambiguation",
-  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL)",
   year = 	"2018",
   publisher = 	"Association for Computational Linguistics",
   pages = 	"2473--2482",
-  location = 	"Melbourne, Australia",
   url = 	"http://aclweb.org/anthology/P18-1230"
 }
 ```
