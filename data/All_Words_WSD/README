@@ -9,8 +9,6 @@ This package contains four directories and the reference paper ("EACL17_WSD_Eval
 * Output_Systems_ALL: Output of all the comparison systems included in the reference paper. Results for the concatenation of all
 		      dataset ("ALL").
 
-* Data-Validation: Guidelines and script to validate the conformity of sense-annotated datasets to the standard format.
-
 
 
 =================================================================================================================================
