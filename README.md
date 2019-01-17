@@ -37,7 +37,6 @@ tensorflow_gpu==1.6.0
 numpy==1.14.2
 nltk==3.2.5
 beautifulsoup4==4.6.0
-tensorflow==1.9.0
 ```
 
 ## Cite
