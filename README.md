@@ -32,6 +32,7 @@ python train_plus.py
 
 ## Dependencies
 ```
+python2.7
 lxml==4.2.1
 tensorflow_gpu==1.6.0
 numpy==1.14.2
