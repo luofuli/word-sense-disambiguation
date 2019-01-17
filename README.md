@@ -1,4 +1,4 @@
-# Word Sense Disambiguation
+# Incorporating Dictionary Knowledge into Neural Word Sense Disambiguation
 
 This repo contains the code and data of the following paper:
 
